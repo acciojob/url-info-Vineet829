@@ -1,1 +1,3 @@
-//your JS code here. If required.
+let current = window.parent.location.href.length
+
+alert(`The length of the URL is: ${current}`)
